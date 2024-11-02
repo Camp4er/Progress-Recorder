@@ -1,0 +1,240 @@
+{
+    "tables": [
+      {
+        "title": "job-application",
+        "criteria": [
+          {
+            "name": "Resume",
+            "bad": "The resume is generic, lacks tailoring to the job application, and contains several errors and inconsistencies that could turn off potential employers.",
+            "better": "The resume shows some level of customization to the job but contains minor errors and is not fully optimized to highlight relevant skills and experience.",
+            "best": "The resume is carefully tailored to the job, error-free, and effectively showcases relevant skills, experiences, and accomplishments to stand out."
+          },
+          {
+            "name": "Cover Letter",
+            "bad": "The cover letter is missing, extremely generic, or fails to address the specific job and company, making it ineffective in capturing interest.",
+            "better": "The cover letter is somewhat customized but lacks depth and contains errors, showing some effort but not fully convincing the employer of genuine interest.",
+            "best": "The cover letter is personalized, well-written, and free of errors, clearly articulating the candidate's fit for the job and enthusiasm for the company."
+          },
+          {
+            "name": "References",
+            "bad": "No references are provided, or the references listed are irrelevant and unverified, providing no substantial support to the application.",
+            "better": "Few references are provided, but they are not highly relevant to the job or not well-verified, offering limited support.",
+            "best": "Multiple, highly relevant references are included, verified, and ready to provide strong, positive endorsements of the candidate's qualifications."
+          },
+          {
+            "name": "Portfolio",
+            "bad": "A portfolio is missing or contains irrelevant examples of work that do not showcase the candidate’s skills effectively for the job at hand.",
+            "better": "A portfolio is provided with a few relevant examples, but it lacks breadth and depth, only partially showcasing the candidate’s capabilities.",
+            "best": "The portfolio is comprehensive, containing highly relevant and diverse examples of work that clearly demonstrate the candidate’s skills and achievements."
+          },
+          {
+            "name": "Networking",
+            "bad": "The candidate has no professional contacts or network, and there has been no effort to engage with industry professionals or potential employers.",
+            "better": "The candidate has a few professional contacts and some limited engagement with the industry but lacks a strong, active network.",
+            "best": "The candidate has a robust professional network, actively engages with industry professionals, and leverages contacts to enhance job application efforts."
+          },
+          {
+            "name": "Research",
+            "bad": "There has been no research conducted on the company or the role, resulting in a lack of understanding and unpreparedness for the application.",
+            "better": "Basic research has been done, but it is not thorough, leading to a superficial understanding of the company and the role.",
+            "best": "Thorough research has been conducted, providing a deep understanding of the company, its culture, and the specifics of the role being applied for."
+          },
+          {
+            "name": "Follow-up",
+            "bad": "There is no follow-up after submitting the application, showing a lack of interest and engagement with the potential employer.",
+            "better": "A one-time follow-up is made, but it is not well-timed or professional, showing only moderate interest.",
+            "best": "Consistent and professional follow-up is conducted, demonstrating strong interest and engagement with the potential employer throughout the process."
+          }
+        ]
+      },
+      {
+        "title": "project-planning",
+        "criteria": [
+          {
+            "name": "Goals",
+            "bad": "Goals are vague, undefined, and not measurable, making it difficult to track progress and success of the project effectively.",
+            "better": "Goals are defined but not entirely measurable, providing some direction but lacking clarity on how success will be evaluated.",
+            "best": "Goals are clear, specific, and measurable, providing a well-defined framework for tracking progress and achieving project success."
+          },
+          {
+            "name": "Timeline",
+            "bad": "The project has an unplanned or unrealistic timeline, with no clear deadlines, leading to potential delays and lack of structure.",
+            "better": "A rough timeline is in place with some deadlines, but it lacks detail and may not fully account for all project phases, risking potential schedule issues.",
+            "best": "The project has a detailed, realistic timeline with clear milestones and deadlines, ensuring structured progress and timely completion."
+          },
+          {
+            "name": "Resources",
+            "bad": "Resources are undefined or lacking, leading to potential shortages and inability to meet project demands effectively.",
+            "better": "Some resources are identified, but planning is incomplete, potentially leading to gaps and challenges during project execution.",
+            "best": "Comprehensive resource planning is conducted, ensuring all necessary resources are identified, allocated, and available to meet project demands effectively."
+          },
+          {
+            "name": "Budget",
+            "bad": "There is no budget in place or it is poorly managed, resulting in overspending and financial mismanagement.",
+            "better": "A basic budget is established, but it may be prone to overruns due to incomplete planning and oversight.",
+            "best": "A detailed budget is carefully planned and well-managed, ensuring financial control and alignment with project goals and resources."
+          },
+          {
+            "name": "Team",
+            "bad": "Roles and responsibilities are undefined, leading to confusion and inefficiency within the project team.",
+            "better": "Some roles are defined, but there may still be ambiguity and overlap, causing potential inefficiencies.",
+            "best": "Roles and responsibilities are clearly defined, with a skilled team in place, ensuring efficient and effective collaboration."
+          },
+          {
+            "name": "Risks",
+            "bad": "Risks are unidentified or unmitigated, leaving the project vulnerable to unforeseen challenges and potential failures.",
+            "better": "Some risks are identified, but the mitigation plans are limited, potentially leaving gaps in the risk management strategy.",
+            "best": "Thorough risk management is conducted, identifying all potential risks and implementing comprehensive mitigation plans to address them effectively."
+          },
+          {
+            "name": "Stakeholders",
+            "bad": "Stakeholders are unengaged and uninformed, leading to a lack of support and potential misalignment with project objectives.",
+            "better": "Stakeholders are somewhat engaged and informed, but communication is not consistent, risking potential misunderstandings and misalignment.",
+            "best": "Stakeholders are fully engaged and well-informed throughout the project, ensuring strong support and alignment with project objectives."
+          }
+        ]
+      },
+      {
+        "title": "study-habits",
+        "criteria": [
+          {
+            "name": "Study Schedule",
+            "bad": "There is no study schedule in place, leading to irregular and ineffective study sessions, making it difficult to maintain consistent progress.",
+            "better": "A study schedule exists but is irregular and not strictly followed, resulting in some progress but lacking consistency and effectiveness.",
+            "best": "A regular and well-planned study schedule is followed consistently, ensuring structured and effective study sessions that maximize learning."
+          },
+          {
+            "name": "Note-Taking",
+            "bad": "Note-taking is inconsistent and unorganized, making it difficult to review and retain information effectively.",
+            "better": "Notes are taken but are only partially organized, leading to some challenges in reviewing and retaining information efficiently.",
+            "best": "Notes are consistently taken and well-organized, facilitating easy review and effective retention of information."
+          },
+          {
+            "name": "Review",
+            "bad": "There is little to no review of study material, resulting in poor retention and understanding of the subject matter.",
+            "better": "Review sessions are held occasionally, but they are not thorough or regular, leading to only partial retention of the material.",
+            "best": "Regular and thorough review sessions are conducted, ensuring strong retention and deep understanding of the subject matter."
+          },
+          {
+            "name": "Practice Tests",
+            "bad": "Practice tests are rarely taken, resulting in a lack of familiarity with exam formats and poor preparation for actual tests.",
+            "better": "Practice tests are taken occasionally, providing some familiarity with exam formats but lacking regular and comprehensive preparation.",
+            "best": "Regular and varied practice tests are conducted, ensuring thorough preparation and strong familiarity with different exam formats and question types."
+          },
+          {
+            "name": "Sleep",
+            "bad": "Sleep is irregular and insufficient, negatively affecting cognitive function, focus, and overall health, thereby hindering study effectiveness.",
+            "better": "Sleep is somewhat regular and near adequate, but occasional irregularities affect focus and cognitive performance.",
+            "best": "Sleep is consistent and adequate, ensuring optimal cognitive function, focus, and overall health, thereby enhancing study effectiveness."
+          },
+          {
+            "name": "Diet",
+            "bad": "The diet is unhealthy and irregular, negatively impacting energy levels, focus, and overall well-being, thereby affecting study performance.",
+            "better": "The diet is somewhat healthy but lacks consistency, leading to occasional dips in energy levels and focus.",
+            "best": "The diet is consistently healthy and balanced, providing sustained energy levels, focus, and overall well-being, thereby optimizing study performance."
+          },
+          {
+            "name": "Focus",
+            "bad": "The study environment is full of distractions, making it difficult to maintain focus and productivity during study sessions.",
+            "better": "The study environment has some distractions, but focus is maintained occasionally, leading to moderate productivity.",
+            "best": "The study environment is highly focused with minimal distractions, ensuring maximum productivity during study sessions."
+          }
+        ]
+      },
+      {
+        "title": "fitness-progress",
+        "criteria": [
+          {
+            "name": "Exercise Consistency",
+            "bad": "Exercise is infrequent and irregular, with no established routine, leading to limited progress and inconsistent results.",
+            "better": "Exercise is somewhat consistent but lacks a structured routine, resulting in moderate progress and some irregularities.",
+            "best": "Exercise is consistent with a well-structured routine, ensuring steady progress and optimal results."
+          },
+          {
+            "name": "Diet",
+            "bad": "The diet is unhealthy and unbalanced, lacking essential nutrients, leading to poor energy levels and hindered fitness progress.",
+            "better": "The diet is somewhat balanced but inconsistent, providing moderate energy levels and fitness progress.",
+            "best": "The diet is healthy, balanced, and consistent, providing optimal nutrition, energy levels, and supporting fitness progress effectively."
+          },
+          {
+            "name": "Sleep",
+            "bad": "Sleep is irregular and insufficient, negatively impacting recovery, energy levels, and overall fitness progress.",
+            "better": "Sleep is somewhat regular and near adequate, but occasional irregularities affect recovery and energy levels.",
+            "best": "Sleep is consistent and sufficient, ensuring optimal recovery, energy levels, and supporting overall fitness progress."
+          },
+          {
+            "name": "Hydration",
+            "bad": "Hydration is poor, with infrequent water intake, leading to dehydration, reduced energy levels, and hindered fitness performance.",
+            "better": "Hydration is somewhat adequate but inconsistent, leading to occasional dehydration and moderate fitness performance.",
+            "best": "Hydration is consistent and sufficient, ensuring optimal energy levels, hydration status, and supporting peak fitness performance."
+          },
+          {
+            "name": "Progress Tracking",
+            "bad": "No progress tracking is in place, making it difficult to measure improvements and adjust fitness plans accordingly.",
+            "better": "Progress tracking is irregular, providing some insight but lacking comprehensive data for effective adjustments.",
+            "best": "Regular and detailed progress tracking is conducted, providing clear insights and data to make effective adjustments to the fitness plan."
+          },
+          {
+            "name": "Recovery",
+            "bad": "Recovery practices are poor or non-existent, leading to prolonged soreness, injuries, and hindered fitness progress.",
+            "better": "Some recovery practices are in place but are irregular and insufficient, resulting in moderate recovery and progress.",
+            "best": "Consistent and effective recovery practices are followed, ensuring optimal recovery, reduced injury risk, and supporting continuous fitness progress."
+          },
+          {
+            "name": "Motivation",
+            "bad": "Motivation is low and inconsistent, resulting in frequent skipped workouts and hindered fitness progress.",
+            "better": "Motivation is somewhat consistent but fluctuates, leading to occasional missed workouts and moderate progress.",
+            "best": "Motivation is high and consistent, ensuring regular workouts and supporting continuous fitness progress."
+          }
+        ]
+      },
+      {
+        "title": "travel-preparation",
+        "criteria": [
+          {
+            "name": "Itinerary",
+            "bad": "The itinerary is vague, incomplete, or nonexistent, leading to potential confusion and inefficiencies during the trip.",
+            "better": "The itinerary is partially planned with some details, but it lacks comprehensive coverage of activities and timings.",
+            "best": "The itinerary is detailed and well-organized, covering all activities, accommodations, and transportation, ensuring a smooth and efficient trip."
+          },
+          {
+            "name": "Packing",
+            "bad": "Packing is haphazard and incomplete, resulting in missing essential items and potential inconveniences during the trip.",
+            "better": "Packing is somewhat organized but lacks thoroughness, leading to occasional missing items and minor inconveniences.",
+            "best": "Packing is meticulously planned and executed, ensuring all essential items are included, and the traveler is well-prepared for any situation."
+          },
+          {
+            "name": "Documentation",
+            "bad": "Important travel documents (passport, tickets, visas) are missing or disorganized, potentially causing delays or issues during travel.",
+            "better": "Travel documents are mostly organized, but there may be occasional lapses or missing minor documents.",
+            "best": "All travel documents are thoroughly organized, up-to-date, and easily accessible, ensuring smooth and trouble-free travel."
+          },
+          {
+            "name": "Health Preparations",
+            "bad": "No health preparations are made, such as vaccinations or carrying necessary medications, leading to potential health risks during the trip.",
+            "better": "Some health preparations are made, but they are not comprehensive, leaving some gaps in medical readiness.",
+            "best": "All necessary health preparations are made, including vaccinations and carrying essential medications, ensuring optimal health and safety during travel."
+          },
+          {
+            "name": "Financial Planning",
+            "bad": "Financial planning is poor or nonexistent, leading to potential overspending or lack of funds during the trip.",
+            "better": "Some financial planning is in place, but it lacks thoroughness, leading to occasional financial constraints.",
+            "best": "Comprehensive financial planning is conducted, ensuring a well-managed budget and access to sufficient funds throughout the trip."
+          },
+          {
+            "name": "Local Knowledge",
+            "bad": "There is no research or knowledge of the local culture, language, and customs, potentially leading to misunderstandings and difficulties.",
+            "better": "Some basic research is done, but it is not thorough, leading to partial understanding of the local culture and customs.",
+            "best": "Extensive research is conducted, providing a deep understanding of the local culture, language, and customs, ensuring respectful and smooth interactions."
+          },
+          {
+            "name": "Emergency Preparedness",
+            "bad": "There is no emergency plan in place, leaving the traveler vulnerable to unforeseen situations and potential dangers.",
+            "better": "An emergency plan exists but is not detailed, providing some level of preparedness but lacking comprehensive coverage.",
+            "best": "A detailed emergency plan is in place, covering all potential scenarios, ensuring the traveler is well-prepared for any emergencies."
+          }
+        ]
+      }
+    ]
+}
+

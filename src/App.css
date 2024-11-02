@@ -1,0 +1,36 @@
+body {
+    background-image: url("Assests/calc-bg-1456w.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    cursor: url(../src/Assests/download.png), auto;
+}
+
+.cursor-pointer {
+    cursor: url(./Assests/cursorpointer.png), pointer;
+}
+
+.font-press-start-2p {
+    font-family: "Press Start 2P", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
+}
+
+.font-roboto-condensed {
+    font-family: Roboto Condensed, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+.bordered {
+    /* margin: 4px;
+    border-spacing: 0;
+    border-collapse: separate;
+    border-image-slice: 2;
+    border-image-width: 2;
+    border-image-repeat: stretch;
+    border-image-source: url(../src/Assests/intro_border.svg);
+    border-image-outset: 2; */
+    border: 5px solid white;
+}

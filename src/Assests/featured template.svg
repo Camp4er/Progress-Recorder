@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250" height="54" viewBox="0 0 250 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g transform="translate(-130.000000, -73.000000)">
+      <g transform="translate(130.000000, 73.000000)">
+        <rect stroke="#FF6154" stroke-width="2" fill="#FFFFFF" x="0.5" y="0.5" width="249" height="53" rx="10"></rect>
+        <text font-family="Helvetica-Bold, Helvetica" font-size="9" font-weight="bold" fill="#FF6154">
+          <tspan x="53" y="20">FEATURED BY</tspan>
+        </text>
+        <text font-family="Helvetica-Bold, Helvetica" font-size="21" font-weight="bold" fill="#FF6154">
+          <tspan x="52" y="40">Camp4er</tspan>
+        </text>
+        <g transform="translate(201.000000, 13.000000)" fill="#FF6154">
+          <g>
+            <polygon points="26.0024997 10 15 10 20.5012498 0"></polygon>
+            <text font-family="Helvetica-Bold, Helvetica" font-size="13" font-weight="bold" line-spacing="20">
+              <tspan x="9.100000000000001" y="27">495</tspan>
+            </text>
+          </g>
+        </g>
+        <g transform="translate(11.000000, 12.000000)">
+          <path d="M31,15.5 C31,24.0603917 24.0603917,31 15.5,31 C6.93960833,31 0,24.0603917 0,15.5 C0,6.93960833 6.93960833,0 15.5,0 C24.0603917,0 31,6.93960833 31,15.5" fill="#FF6154"></path>
+          <text font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#FFFFFF">
+            <tspan x="8" y="21">C</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

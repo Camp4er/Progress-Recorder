@@ -1,0 +1,37 @@
+{
+      "job-application": {
+      "title": "Job Application Readiness Calculator",
+      "subtitle": "Assess Your Job Application, Free Game!",
+      "description": "Imagine you are applying for your dream job.",
+      "headline": "Will You Get the Job? – Estimate The Probability w/ This Free Game!",
+      "instructions": "① Review these “job readiness conditions” that indicate your application is likely to succeed. ② Click the red squares to check them off. You want the whole board to turn green. You'll learn effective job application strategies. ③ READ CAREFULLY & be honest."
+    },
+    "project-planning": {
+      "title": "Project Planning Success Meter",
+      "subtitle": "Gauge Your Project’s Success Potential, Free Game!",
+      "description": "Imagine you are planning a crucial project.",
+      "headline": "Will Your Project Succeed? – Estimate The Probability w/ This Free Game!",
+      "instructions": "① Review these “project success conditions” that indicate your project is likely to be successful. ② Click the red squares to check them off. You want the whole board to turn green. You'll learn key project management principles. ③ READ CAREFULLY & be honest."
+    },
+    "study-habits": {
+      "title": "Study Habit Analyzer",
+      "subtitle": "Evaluate Your Study Habits, Free Game!",
+      "description": "Imagine you are preparing for an important exam.",
+      "headline": "Will You Ace the Exam? – Estimate The Probability w/ This Free Game!",
+      "instructions": "① Review these “study habit conditions” that indicate your study habits are effective. ② Click the red squares to check them off. You want the whole board to turn green. You'll learn productive study techniques. ③ READ CAREFULLY & be honest."
+    },
+    "fitness-progress": {
+      "title": "Fitness Progress Tracker",
+      "subtitle": "Track Your Fitness Journey, Free Game!",
+      "description": "Imagine you are on a fitness journey.",
+      "headline": "Will You Reach Your Fitness Goals? – Estimate The Probability w/ This Free Game!",
+      "instructions": "① Review these “fitness progress conditions” that indicate your fitness routine is effective. ② Click the red squares to check them off. You want the whole board to turn green. You'll learn essential fitness strategies. ③ READ CAREFULLY & be honest."
+    },
+    "travel-preparation": {
+      "title": "Travel Preparation Checker",
+      "subtitle": "Check Your Travel Readiness, Free Game!",
+      "description": "Imagine you are planning a big trip.",
+      "headline": "Will Your Trip Go Smoothly? – Estimate The Probability w/ This Free Game!",
+      "instructions": "① Review these “travel readiness conditions” that indicate your travel plans are solid. ② Click the red squares to check them off. You want the whole board to turn green. You'll learn optimal travel preparation tips. ③ READ CAREFULLY & be honest."
+    }
+}

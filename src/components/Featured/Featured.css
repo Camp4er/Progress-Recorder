@@ -1,0 +1,28 @@
+.featured-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+  
+.featured-dropdown select {
+  width: 250px;
+  height: 54px;
+  padding: 8px;
+  border: 2px solid #FF6154;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  font-family: Helvetica-Bold, Helvetica;
+  font-size: 17px;
+  font-weight: 600; 
+  color: #FF6154; 
+  overflow: hidden; /* Hide overflow to clip text */
+  white-space: nowrap; /* Prevent text wrapping */
+}
+
+.featured-dropdown select:hover {
+  overflow: visible; /* Show full content on hover */
+  white-space: normal; /* Allow text wrapping to show full content */
+}

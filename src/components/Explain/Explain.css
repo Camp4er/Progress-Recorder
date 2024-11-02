@@ -1,0 +1,17 @@
+.explain {
+    margin-left: 110px;
+    margin-right: 110px;
+    background: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items: center;
+    border: 3px solid #000;
+    height: 120px;
+    gap: 25px;
+    margin-top: 35px;
+}
+
+.explain svg {
+    margin-left: 26px;
+}
